@@ -42,11 +42,11 @@ Certifique-se de ter o OpenJDK 17 instalado em seu ambiente de desenvolvimento. 
 
 ## Uso
 
-EM CONSTRUÇÃP 
+EM CONSTRUÇÃO
 
 ## Contribuição
 
-EM CONSTRUÇÃP 
+EM CONSTRUÇÃO
 
 ## Licença
 
