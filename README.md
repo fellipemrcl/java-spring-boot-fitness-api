@@ -42,11 +42,11 @@ Certifique-se de ter o OpenJDK 17 instalado em seu ambiente de desenvolvimento. 
 
 ## Uso
 
-Descreva como os desenvolvedores podem interagir com a API. Forneça exemplos de endpoints, payloads e possíveis respostas.
+EM CONSTRUÇÃP 
 
 ## Contribuição
 
-Sinta-se à vontade para contribuir com o desenvolvimento deste projeto. Antes de enviar uma solicitação pull, certifique-se de seguir as diretrizes de contribuição.
+EM CONSTRUÇÃP 
 
 ## Licença
 
