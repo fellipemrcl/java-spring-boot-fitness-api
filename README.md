@@ -26,19 +26,19 @@ Certifique-se de ter o OpenJDK 17 instalado em seu ambiente de desenvolvimento. 
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-username/fitness-api.git
+   git clone git@github.com:fellipemrcl/java-spring-boot-fitness-api.git
    
 2. Navegue até o diretório do projeto:
 
    ```bash
-   cd fitness-api
+   cd java-spring-boot-fitness-api
 
 3. Execute a aplicação:
 
    ```bash
    ./mvnw spring-boot:run
 
-### OBS: A aplicação estará acessível em http://localhost:8080.
+### OBS: A aplicação estará acessível em http://localhost:8080
 
 ## Uso
 
